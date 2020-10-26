@@ -1,0 +1,59 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    top:0;
+}
+.container-fluid{
+padding-top: 2rem;
+}
+.card{
+    width: 100%;
+    // height: 100%;
+    padding: 1rem;
+    // margin: 0.5rem;
+}
+.col-md-4{
+    // padding: 2rem;
+    margin: 0.5rem;
+}
+.green{
+    background-color: blue;
+    
+}
+.blue{
+    background-color: green;
+   
+}
+.active-name{
+    font-size: 10px;
+    color: white;
+    display: inline-flex;
+    justify-content: space-between;
+    top:12px;
+    padding: 0;
+    align-items: center;
+}
+.font-col{
+    color: white;
+    left: -12px;
+    justify-content: space-between;
+    display: inline-flex;
+}
+.btn-class{
+    border-radius: 50%;
+    font-size: 12px;
+    height: 50%;
+    width: 35%;
+}
+
+
+
+    .btnAlign{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px;
+    padding: 0rem;
+}
+
+
